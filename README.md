@@ -12,7 +12,7 @@ Minecraft fabric utility mod for the latest Minecraft version.
 Join our [Discord](https://discord.gg/bBGQZvd).
 
 ## Installation
-Follow guide at [meteorclient.com](https://meteorclient.com/info).
+Follow guide at [meteorclient.com](https://meteorclient.com/info).(for original build) This is a version where I tinker around with the stuff.
 
 ## Building
 - Clone this repository
@@ -24,8 +24,6 @@ You can find dev builds at [circleci](https://app.circleci.com/pipelines/github/
 ## Older Versions
 If you want to connect to servers that run older version you can download [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect).
 
-## Donation
-We would appreciate if you donated to us through [PayPal](https://paypal.me/MineGame159). Include your Discord tag so we can give you donator role and contact you. Minimum for donator role is 5$.
 
 ## Thank you
 [Cabaletta](https://github.com/cabaletta) for [Baritone](https://github.com/cabaletta/baritone)  
